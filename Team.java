@@ -3,6 +3,9 @@ The first input line contains a single integer n (1 ≤ n ≤ 1000) — 
 
 Output
 Print a single integer — the number of problems the friends will implement on the contest.*/
+
+//Problem 231A
+
 import java.util.*;
 public class Team {
     public static void main(String[] args) {
