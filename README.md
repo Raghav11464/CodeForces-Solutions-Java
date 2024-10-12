@@ -1,4 +1,4 @@
 # CodeForces-Solutions-Java
-I will be uploading the solutions for the problems which are there in CodeForces problemset in Java Language.
+I will be uploading the solutions for the problems which are there in CodeForces problemset using Java.
 <br>
-Only the easy ones
+Including all the difficulties i.e. A,B,C and D
