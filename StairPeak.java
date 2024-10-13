@@ -1,3 +1,17 @@
+//Problem 1950A
+/*
+You are given three digits 𝑎, 𝑏, and 𝑐. Determine whether they form a stair, a peak, or neither.
+
+A stair satisfies the condition 𝑎<𝑏<𝑐.
+A peak satisfies the condition 𝑎<𝑏>𝑐.
+Input
+The first line contains a single integer 𝑡 (1≤𝑡≤1000) — the number of test cases.
+
+The only line of each test case contains three digits 𝑎, 𝑏, 𝑐 (0≤𝑎, 𝑏, 𝑐≤9).
+
+Output
+For each test case, output "STAIR" if the digits form a stair, "PEAK" if the digits form a peak, and "NONE" otherwise (output the strings without quotes).*/
+
 import java.util.*;
 public class StairPeak {
     public static void main(String[] args) {
